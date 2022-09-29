@@ -29,3 +29,7 @@ $( function() {
 $( function() {
   $( "#sortable" ).sortable();
 } );
+
+$( function() {
+  $( "#tabs" ).tabs();
+} );
